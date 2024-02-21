@@ -1,0 +1,1 @@
+This project is an example of designing a simple user interface using Android Studio. The project organizes interface elements using XML files and, if necessary, you can interact with these elements using Java code.
