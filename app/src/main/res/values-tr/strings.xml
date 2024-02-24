@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coffe Best</string>
+    <string name="coffeHot">Sıcak</string>
+    <string name="coffeCold">Soğuk</string>
+    <string name="sugar">Şeker</string>
+    <string name="milk">Süt</string>
+    <string name="hotCost">90 ₺</string>
+    <string name="coldCost">100 ₺</string>
+    <string name="coffeExp">En iyi kahve keyfini deneyimleyin</string>
+    <string name="card">SEPETE EKLE</string>
+</resources>
